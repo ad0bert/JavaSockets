@@ -1,0 +1,23 @@
+STR - Schaden
+DEX - Treffer warscheinlichkeit / ausweichen
+INT - Kluger Schlag - schaden multiplikator
+VIT - Vitaltität
+CHA - Charisma (kommt es überhaupt zu einem kampf)
+
+Rassen:
+Menschen:  -1 Str, -1 Cha, +1 Dex, +1 Int 
+Zwerge:    +2 Str, -1 Cha, -2 Dex, +1 Vit, 
+Halblinge: +2 Cha, +2 Dex, -3 Str, -2 Vit, +1 Int
+Elfen:     +2 Int, +1 Dex, -2 Str, -1 Vit, 
+Trolle:    -3 Cha, -2 Dex, -2 Int, +4 Str, +3 Vit
+
+Grundwerte alles 10
+
+Folglich:
+
+		Menschen:	Zwerge:		Halblinge:		Elfen:		Trolle:
+STR		10			12			7				8			14
+DEX		10			8			12				11			8
+INT		10			10			11				12			8
+VIT		10			11			8				9			13
+CHA		10			9			12				10			7 
